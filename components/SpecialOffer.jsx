@@ -3,7 +3,7 @@ import { CustomButton } from "."
 
 export default function SpecialOffer() {
     return (
-        <section className="flex flex-wrap items-center justify-center gap-10 padding max-xl:flex-col-reverse">
+        <section className="flex flex-wrap items-center justify-center gap-10 padding max-xl:flex-col-reverse max-container">
             <div className="flex-1">
                 <Image
                     src='/images/offer.svg'
